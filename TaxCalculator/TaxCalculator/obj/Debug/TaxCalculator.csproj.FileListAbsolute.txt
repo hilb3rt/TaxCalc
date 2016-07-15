@@ -1,0 +1,18 @@
+X:\gDrive\Working Folder\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe.config
+X:\gDrive\Working Folder\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe
+X:\gDrive\Working Folder\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.pdb
+X:\gDrive\Working Folder\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.csprojResolveAssemblyReference.cache
+X:\gDrive\Working Folder\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.exe
+X:\gDrive\Working Folder\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.pdb
+C:\Users\zlbramme\Downloads\TaxCalculator\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe.config
+C:\Users\zlbramme\Downloads\TaxCalculator\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.exe
+C:\Users\zlbramme\Downloads\TaxCalculator\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.pdb
+C:\Users\zlbramme\Downloads\TaxCalculator\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe
+C:\Users\zlbramme\Downloads\TaxCalculator\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.pdb
+C:\Users\zlbramme\Downloads\TaxCalculator\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.csprojResolveAssemblyReference.cache
+X:\gDrive\Working Folder\TaxCalculator\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe.config
+X:\gDrive\Working Folder\TaxCalculator\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.exe
+X:\gDrive\Working Folder\TaxCalculator\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.pdb
+X:\gDrive\Working Folder\TaxCalculator\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe
+X:\gDrive\Working Folder\TaxCalculator\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.pdb
+X:\gDrive\Working Folder\TaxCalculator\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.csprojResolveAssemblyReference.cache
